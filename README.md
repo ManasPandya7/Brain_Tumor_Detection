@@ -65,15 +65,6 @@ brain_tumor/
 2. Follow the steps for data loading, preprocessing, training, and evaluation.
 3. Use the trained model for predictions on new MRI images.
 
----
-
-## Screenshots
-
-### Sample Predictions:
-![Positive Tumor](images/sample_positive.png)
-![Negative Tumor](images/sample_negative.png)
-
----
 
 ## Future Improvements
 1. Incorporate deep learning models like Convolutional Neural Networks (CNNs).
