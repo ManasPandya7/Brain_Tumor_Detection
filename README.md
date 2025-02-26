@@ -26,7 +26,7 @@ brain_tumor/\
 ├── Testing/\
 ├── Manual/
 
-
+Note: For running the OpenCV library, in jupyter notebook code is written in following way: !pip install opencv-contrib-python, while to execute it using vs code, there is only one change in here and is: %pip install opencv-contrib-python
 
 ## Steps in the Workflow
 
