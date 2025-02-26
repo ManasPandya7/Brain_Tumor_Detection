@@ -21,9 +21,9 @@ git clone https://github.com/ManasPandya7/Brain_Tumor_Detection.git
 
 2. Place the dataset in the following structure:
 
-brain_tumor/
-├── Training/
-├── Testing/
+brain_tumor/\
+├── Training/\
+├── Testing/\
 ├── Manual/
 
 
