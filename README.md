@@ -8,7 +8,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 - `no_tumor`: Images without tumors.
 - `pituitary_tumor`: Images with pituitary tumors.
 
-**Note:** The dataset is not uploaded here due to size constraints. Please download it from Kaggle and place it in the Readme file.
+**Note:** The dataset is also made available for reference.
 
 
 ## Installation
